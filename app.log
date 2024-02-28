@@ -1,0 +1,74 @@
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 374-300-265
+INFO:werkzeug: * Detected change in 'C:\\Users\\ekut2\\PycharmProjects\\Webapp\\app.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 374-300-265
+INFO:werkzeug: * Detected change in 'C:\\Users\\ekut2\\PycharmProjects\\Webapp\\app.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 374-300-265
+INFO:werkzeug: * Detected change in 'C:\\Users\\ekut2\\PycharmProjects\\Webapp\\app.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 374-300-265
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 374-300-265
+INFO:root:Job ID: {'uri': 'http://dm422:65445/api/v2/jobs/20240227-1425-4648-3edc-3a1401a9c686', 'job_id': '20240227-1425-4648-3edc-3a1401a9c686'}
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2024 14:25:46] "POST /process_form HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 374-300-265
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 374-300-265
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2024 14:29:24] "GET / HTTP/1.1" 200 -
+INFO:root:Job ID: {'uri': 'http://dm422:65445/api/v2/jobs/20240227-1429-4010-7d15-422a909979c1', 'job_id': '20240227-1429-4010-7d15-422a909979c1'}
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2024 14:29:40] "POST /process_form HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ekut2\\PycharmProjects\\Webapp\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 374-300-265
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 374-300-265
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2024 14:33:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2024 14:33:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2024 14:33:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2024 14:33:33] "GET / HTTP/1.1" 200 -
+INFO:root:Job ID: {'uri': 'http://dm422:65445/api/v2/jobs/20240227-1433-4107-94a9-6e45104b8a34', 'job_id': '20240227-1433-4107-94a9-6e45104b8a34'}
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2024 14:33:41] "POST /process_form HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 374-300-265
+INFO:root:Job ID: {'uri': 'http://dm422:65445/api/v2/jobs/20240227-1435-4011-66c0-dd0ae42ae0f4', 'job_id': '20240227-1435-4011-66c0-dd0ae42ae0f4'}
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2024 14:35:40] "POST /process_form HTTP/1.1" 200 -
+INFO:root:Job ID: {'uri': 'http://dm422:65445/api/v2/jobs/20240227-1435-4921-6e01-b0f75c673077', 'job_id': '20240227-1435-4921-6e01-b0f75c673077'}
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2024 14:35:49] "POST /process_form HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2024 14:35:59] "[33mGET /штвуч HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2024 14:36:05] "[33mGET /index HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2024 14:36:07] "[33mGET /index HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2024 14:36:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 374-300-265
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2024 14:36:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2024 14:36:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ekut2\\PycharmProjects\\Webapp\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
